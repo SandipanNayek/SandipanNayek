@@ -1,3 +1,15 @@
+👋 Hi, I'm Sandipan Nayek
+
+🚀 Competitive Programmer | 💻 MERN Stack Developer | 🤖 GenAI Enthusiast
+
+I’m a passionate developer who enjoys solving complex problems and building real-world applications.
+Currently focused on improving my problem-solving skills and exploring modern web + AI technologies.
+
+🧠 About Me
+💡 Codeforces Specialist (Rating: 1428)
+🧩 Strong interest in Data Structures & Algorithms
+🌐 MERN Stack Developer (MongoDB, Express, React, Node.js)
+🤖 Exploring Generative AI & its real-world applications
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sandipan Nayek) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandipan_nayek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sandipan Nayek) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sandipan Nayek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandipannayek568@gmail.com) 
