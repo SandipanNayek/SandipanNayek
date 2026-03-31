@@ -6,7 +6,7 @@ I’m a passionate developer who enjoys solving complex problems and building re
 Currently focused on improving my problem-solving skills and exploring modern web + AI technologies.
 
 🧠 About Me
-💡 Codeforces Specialist (Rating: 1428)
+💡 Codeforces Specialist (Rating: 1464)
 🧩 Strong interest in Data Structures & Algorithms
 🌐 MERN Stack Developer (MongoDB, Express, React, Node.js)
 🤖 Exploring Generative AI & its real-world applications
